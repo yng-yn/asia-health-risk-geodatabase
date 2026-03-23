@@ -1,0 +1,111 @@
+unit_id,unit_name,pm25,elderly,children_u5,rural_pop_perc,hospital_access_count,overlap_score,rank,country,display_name,hospitals_per_10k
+PH14011,Benguet,32.62,32634,81648,8.9,828061.0,0.692,1,Philippines,Benguet,
+PH13039,Metropolitan Manila First District,32.22,80396,167111,0.0,1863035.0,0.685,2,Philippines,Manila City (1st District),
+PH13074,Metropolitan Manila Second District,32.88,192606,513927,0.0,5474088.0,0.656,3,Philippines,Quezon City (2nd District),
+PH10013,Bukidnon,29.89,60219,195900,34.34,1720578.0,0.644,4,Philippines,Bukidnon,
+PH19099,Special Geographic Area,29.4,4139,13145,18.47,130078.0,0.642,5,Philippines,BARMM Spec. Area,
+PH13075,Metropolitan Manila Third District,31.44,106538,334084,0.0,3415445.0,0.641,6,Philippines,Caloocan & Others (3rd District),
+PH13076,Metropolitan Manila Fourth District,31.65,117703,355370,0.0,3727075.0,0.64,7,Philippines,Pasig & Others (4th District),
+PH12047,Cotabato (North Cotabato),28.82,47273,120713,22.42,1182472.0,0.631,8,Philippines,North Cotabato,
+PH01033,La Union,26.86,46102,62076,3.69,702988.0,0.614,9,Philippines,La Union,
+PH02050,Nueva Vizcaya,27.38,21729,40686,23.71,413433.0,0.614,10,Philippines,Nueva Vizcaya,
+PH19088,Maguindanao del Sur,27.52,5879,25420,43.19,251999.0,0.609,11,Philippines,Maguindanao del Sur,
+PH11023,Davao del Norte,27.22,53817,127376,12.0,1337734.0,0.604,12,Philippines,Davao del Norte,
+PH07046,Negros Oriental,25.66,69849,117814,21.96,1197624.0,0.597,13,Philippines,Negros Oriental,
+PH12063,South Cotabato,27.3,54005,161753,10.19,1620368.0,0.596,14,Philippines,South Cotabato,
+PH11024,Davao del Sur,27.06,97497,225210,6.26,2447240.0,0.595,15,Philippines,Davao del Sur,
+PH12065,Sultan Kudarat,26.21,30157,85666,14.43,769867.0,0.591,16,Philippines,Sultan Kudarat,
+PH06045,Negros Occidental,24.91,158415,286019,19.1,3059072.0,0.588,17,Philippines,Negros Occidental,
+PH16002,Agusan del Norte,25.74,29382,65335,11.2,649202.0,0.586,18,Philippines,Agusan del Norte,
+PH10042,Misamis Occidental,25.37,32766,47444,5.49,535282.0,0.585,19,Philippines,Misamis Occidental,
+PH06030,Iloilo,23.15,153414,193536,3.67,2252436.0,0.582,20,Philippines,Iloilo,
+PH10043,Misamis Oriental,25.63,74334,170658,6.48,1781192.0,0.579,21,Philippines,Misamis Oriental,
+PH04058,Rizal,27.42,98396,323248,1.87,3215324.0,0.578,22,Philippines,Rizal,
+PH07012,Bohol,23.43,80719,101136,19.57,1051573.0,0.575,23,Philippines,Bohol,
+PH14027,Ifugao,25.0,6007,11815,52.24,96372.0,0.574,24,Philippines,Ifugao,
+PH03054,Pampanga,24.27,125933,265091,4.93,2717561.0,0.566,25,Philippines,Pampanga,
+PH19036,Lanao del Sur,24.94,7136,37456,16.13,351922.0,0.565,26,Philippines,Lanao del Sur,
+PH16003,Agusan del Sur,24.56,22317,72554,20.0,701804.0,0.559,27,Philippines,Agusan del Sur,
+PH06019,Capiz,23.53,41595,63341,15.66,706237.0,0.556,28,Philippines,Capiz,
+PH09072,Zamboanga del Norte,23.27,36397,84487,25.8,634863.0,0.556,29,Philippines,Zamboanga del Norte,
+PH10035,Lanao del Norte,24.41,32182,91478,5.4,948281.0,0.555,30,Philippines,Lanao del Norte,
+PH14044,Mountain Province,23.64,6419,9736,45.77,82868.0,0.553,31,Philippines,Mountain Province,
+PH07022,Cebu,22.86,246302,513025,2.22,5288786.0,0.549,32,Philippines,Cebu,
+PH03014,Bulacan,23.84,146196,334104,1.47,3458257.0,0.548,33,Philippines,Bulacan,
+PH11082,Davao de Oro (Compostela Valley),23.24,33820,86929,21.63,789898.0,0.545,34,Philippines,Davao de Oro,
+PH09073,Zamboanga del Sur,22.87,70133,187161,14.61,1622263.0,0.543,35,Philippines,Zamboanga del Sur,
+PH07061,Siquijor,22.93,7397,5408,12.28,74941.0,0.542,36,Philippines,Siquijor,
+PH03049,Nueva Ecija,22.06,128479,225777,9.58,2506513.0,0.536,37,Philippines,Nueva Ecija,
+PH01055,Pangasinan,20.8,203435,324053,5.21,3608270.0,0.536,38,Philippines,Pangasinan,
+PH19087,Maguindanao del Norte,22.81,13586,47645,19.91,434989.0,0.534,39,Philippines,Maguindanao del Norte,
+PH09083,Zamboanga Sibugay,21.97,23646,70276,32.37,478771.0,0.53,40,Philippines,Zamboanga Sibugay,
+PH06004,Aklan,21.51,40928,52410,3.78,590185.0,0.528,41,Philippines,Aklan,
+PH12080,Sarangani,21.95,14843,53077,23.21,421760.0,0.523,42,Philippines,Sarangani,
+PH08037,Leyte,20.69,104931,190078,12.67,1907401.0,0.521,43,Philippines,Leyte,
+PH03069,Tarlac,21.31,76293,136024,10.44,1489980.0,0.52,44,Philippines,Tarlac,
+PH16068,Surigao del Sur,21.39,22986,49998,32.37,423334.0,0.52,45,Philippines,Surigao del Sur,
+PH04034,Laguna,22.73,146488,357687,1.54,3784368.0,0.517,46,Philippines,Laguna,
+PH16067,Surigao del Norte,20.83,28568,51921,15.91,473574.0,0.513,47,Philippines,Surigao del Norte,
+PH06079,Guimaras,21.14,11945,15874,14.79,180231.0,0.513,48,Philippines,Guimaras,
+PH06006,Antique,20.42,37383,49724,11.89,484858.0,0.512,49,Philippines,Antique,
+PH01029,Ilocos Sur,19.87,54323,53751,9.71,642323.0,0.509,50,Philippines,Ilocos Sur,
+PH10018,Camiguin,20.75,6001,7641,8.43,86051.0,0.506,51,Philippines,Camiguin,
+PH08064,Southern Leyte,20.22,23946,26965,21.26,290763.0,0.504,52,Philippines,Southern Leyte,
+PH03071,Zambales,20.24,45760,88781,10.63,891466.0,0.502,53,Philippines,Zambales,
+PH04021,Cavite,22.45,170868,453241,0.56,4707003.0,0.501,54,Philippines,Cavite,
+PH05041,Masbate,18.8,42585,108233,29.34,533394.0,0.499,55,Philippines,Masbate,
+PH05017,Camarines Sur,19.12,113939,233571,15.01,2173403.0,0.497,56,Philippines,Camarines Sur,
+PH05005,Albay,19.28,70928,128398,7.09,1298598.0,0.492,57,Philippines,Albay,
+PH11025,Davao Oriental,19.62,25279,59763,37.15,483623.0,0.492,58,Philippines,Davao Oriental,
+PH17052,Oriental Mindoro,19.83,34023,87468,10.72,800289.0,0.49,59,Philippines,Oriental Mindoro,
+PH11086,Davao Occidental,19.54,7463,28501,27.19,128981.0,0.489,60,Philippines,Davao Occidental,
+PH04010,Batangas,18.52,161405,289286,2.35,3109734.0,0.485,61,Philippines,Batangas,
+PH05062,Sorsogon,18.85,43610,84014,14.3,791825.0,0.482,62,Philippines,Sorsogon,
+PH14032,Kalinga,19.28,9338,23556,34.9,204262.0,0.481,63,Philippines,Kalinga,
+PH08060,Samar (Western Samar),18.51,32988,70462,25.95,499820.0,0.481,64,Philippines,Western Samar,
+PH02057,Quirino,19.13,8182,18470,18.48,189994.0,0.478,65,Philippines,Quirino,
+PH16085,Dinagat Islands,18.85,5816,9086,44.18,75028.0,0.476,66,Philippines,Dinagat Islands,
+PH08078,Biliran,18.54,12507,20396,7.62,163792.0,0.474,67,Philippines,Biliran,
+PH03008,Bataan,18.73,34982,78856,7.7,776678.0,0.473,68,Philippines,Bataan,
+PH17059,Romblon,18.12,13574,22818,20.48,152963.0,0.469,69,Philippines,Romblon,
+PH08048,Northern Samar,17.4,31443,76310,28.35,450334.0,0.466,70,Philippines,Northern Samar,
+PH04056,Quezon,17.15,94689,208903,11.11,1837842.0,0.463,71,Philippines,Quezon,
+PH14001,Abra,17.64,14655,16286,40.72,120667.0,0.462,72,Philippines,Abra,
+PH09097,City of Isabela (not a province),18.02,3070,8455,36.64,64835.0,0.461,73,Philippines,Isabela City,
+PH19007,Basilan,17.89,2424,7475,99.04,51351.0,0.459,74,Philippines,Basilan,
+PH17040,Marinduque,17.43,11258,17827,19.71,132165.0,0.456,75,Philippines,Marinduque,
+PH05016,Camarines Norte,17.3,26443,60736,13.52,549611.0,0.452,76,Philippines,Camarines Norte,
+PH17051,Occidental Mindoro,17.26,20407,61761,27.84,501380.0,0.449,77,Philippines,Occidental Mindoro,
+PH08026,Eastern Samar,16.28,25740,37395,39.46,307197.0,0.443,78,Philippines,Eastern Samar,
+PH19066,Sulu,16.87,4856,14957,41.27,125860.0,0.442,79,Philippines,Sulu,
+PH17053,Palawan,16.0,42043,141226,36.23,876420.0,0.441,80,Philippines,Palawan,
+PH03077,Aurora,16.16,10045,24996,27.49,208667.0,0.432,81,Philippines,Aurora,
+PH19070,Tawi-Tawi,14.2,1727,8422,63.53,36974.0,0.4,82,Philippines,Tawi-Tawi,
+PH01028,Ilocos Norte,12.97,48743,48711,14.83,588470.0,0.396,83,Philippines,Ilocos Norte,
+PH02031,Isabela,13.68,75657,162941,18.26,1656771.0,0.393,84,Philippines,Isabela,
+PH14081,Apayao,13.67,4149,8652,43.78,67905.0,0.391,85,Philippines,Apayao,
+PH05020,Catanduanes,13.3,16154,22803,20.43,216709.0,0.39,86,Philippines,Catanduanes,
+PH02015,Cagayan,10.83,73320,119598,17.84,1153419.0,0.364,87,Philippines,Cagayan,
+PH02009,Batanes,8.06,996,1493,40.63,12505.0,0.3,88,Philippines,Batanes,
+TWN.5.1_1,Tainan,23.45,378000,68000,18.6,0.18,0.761,1,Taiwan,Tainan,0.18
+TWN.7.1_1,Changhua,24.16,198000,32000,42.3,0.23,0.696,2,Taiwan,Changhua,0.23
+TWN.7.15_1,Yulin,24.28,148000,18000,58.6,0.21,0.688,3,Taiwan,Yulin,0.21
+TWN.4.1_1,Taichung,18.29,530000,118000,15.2,0.23,0.628,4,Taiwan,Taichung,0.23
+TWN.3.1_1,NewTaipei,13.94,820000,148000,8.4,0.13,0.608,5,Taiwan,NewTaipei,0.13
+TWN.2.1_1,Kaohsiung,18.08,622000,98000,12.8,0.3,0.599,6,Taiwan,Kaohsiung,0.3
+TWN.7.13_1,Taoyuan,16.58,440000,128000,8.8,0.15,0.586,7,Taiwan,Taoyuan,0.15
+TWN.7.2_1,ChiayiCity,24.06,56000,7200,8.9,0.42,0.56,8,Taiwan,ChiayiCity,0.42
+TWN.7.3_1,ChiayiCounty,19.37,98000,12000,68.4,0.08,0.553,9,Taiwan,ChiayiCounty,0.08
+TWN.6.1_1,Taipei,15.33,448000,52000,2.1,0.14,0.497,10,Taiwan,Taipei,0.14
+TWN.7.11_1,Pingtung,19.17,168000,22000,52.4,0.27,0.488,11,Taiwan,Pingtung,0.27
+TWN.1.1_1,Kinmen,17.93,14800,3200,35.2,0.07,0.48,12,Taiwan,Kinmen,0.07
+TWN.7.4_1,HsinchuCity,17.89,66000,18000,6.2,0.2,0.445,13,Taiwan,HsinchuCity,0.2
+TWN.7.8_1,Miaoli,17.23,98000,12000,58.2,0.25,0.404,14,Taiwan,Miaoli,0.25
+TWN.7.5_1,HsinchuCounty,15.95,98000,22000,48.7,0.18,0.396,15,Taiwan,HsinchuCounty,0.18
+TWN.7.9_1,Nantou,16.03,88000,9200,74.6,0.2,0.379,16,Taiwan,Nantou,0.2
+TWN.7.10_1,Penghu,16.0,18000,2800,45.8,0.28,0.322,17,Taiwan,Penghu,0.28
+TWN.7.7_1,Keelung,14.18,78000,10000,5.4,0.24,0.294,18,Taiwan,Keelung,0.24
+TWN.7.14_1,Yilan,13.18,82000,12000,62.4,0.2,0.278,19,Taiwan,Yilan,0.2
+TWN.7.12_1,Taitung,13.0,72000,8400,68.9,0.21,0.262,20,Taiwan,Taitung,0.21
+TWN.7.6_1,Hualien,13.48,72000,8800,72.3,0.3,0.241,21,Taiwan,Hualien,0.3
+TWN.1.2_1,Lienkiang,14.47,2100,420,82.4,0.77,0.052,22,Taiwan,Lienkiang,0.77
